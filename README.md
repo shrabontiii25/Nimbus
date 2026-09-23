@@ -1,6 +1,6 @@
-# Weather App
+# Nimbus
 
-A responsive single-page weather application built with Vue 3, TypeScript, and the OpenWeatherMap API. Built as a technical assessment.
+A responsive single-page weather and forecast application built with Vue 3, TypeScript, and the OpenWeatherMap API. Provides current conditions plus hourly and weekly forecasts. Built as a technical assessment.
 
 ## Features
 
